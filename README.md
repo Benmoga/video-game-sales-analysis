@@ -32,6 +32,7 @@ Para ejecutar el notebook:
 - matplotlib
 - SciPy
 - Jupyter Notebook
+- PowerBI
 
 ---
 
@@ -62,6 +63,24 @@ Para ejecutar el notebook:
 
 ---
 
+## Análisis y Dashboards
+
+   **Resumen Ejecutivo del Mercado de Videojuegos**
+   Este dashboard ofrece una visión general del mercado global de videojuegos, mostrando las ventas totales por región y su evolución a lo largo del tiempo.
+   Permite identificar rápidamente los principales mercados y tendencias históricas mediante filtros interactivos.
+
+   **Análisis por Plataforma**
+   Este dashboard analiza el desempeño de las principales plataformas de videojuegos,
+   identificando aquellas con mayor volumen de ventas globales, su distribución por
+   región y su evolución a lo largo del tiempo. Se utilizan filtros para profundizar
+   en periodos y segmentos específicos.
+
+   **Análisis por Género**
+   Este dashboard explora el comportamiento de ventas por género, mostrando los géneros
+   más relevantes, su distribución regional y su evolución histórica. El análisis
+   permite identificar patrones de preferencia del mercado a lo largo del tiempo. 
+
+  
 ## Principales hallazgos
 - **PS4** y **Xbox One** lideran las ventas en el periodo reciente (2013–2016).
 - El género **Acción** domina en Norteamérica y Europa, mientras que **Rol** es clave en Japón.
