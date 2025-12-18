@@ -70,14 +70,14 @@ Para ejecutar el notebook:
    Este dashboard ofrece una visión general del mercado global de videojuegos, mostrando las ventas totales por región y su evolución a lo largo del tiempo.
    Permite identificar rápidamente los principales mercados y tendencias históricas mediante filtros interactivos.
 
-   ![Análisis por Plataforma](./dashboards/Análisis por Plataforma.jpg)
+   ![Análisis por Plataforma](./dashboards/Análisis-Plataforma.jpg)
 
    Este dashboard analiza el desempeño de las principales plataformas de videojuegos,
    identificando aquellas con mayor volumen de ventas globales, su distribución por
    región y su evolución a lo largo del tiempo. Se utilizan filtros para profundizar
    en periodos y segmentos específicos.
 
-   ![Análisis por Género](./dashboards/Análisis por Género.jpg)
+   ![Análisis por Género](./dashboards/Análisis-Género.jpg)
    
    Este dashboard explora el comportamiento de ventas por género, mostrando los géneros
    más relevantes, su distribución regional y su evolución histórica. El análisis
